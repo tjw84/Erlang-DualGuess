@@ -10,7 +10,7 @@ Video explaination of text and use:
 
 # Development Environment
 
-I used Visual Studio Code, Github (obviously), Youtube, and Microsoft Edge to develop, explain, and showcase this software.
+I used Visual Studio Code (a little), notepad, Erlang Shell, Github (obviously), Youtube, and Microsoft Edge to develop, explain, and showcase this software.
 
 - Erlang
 
