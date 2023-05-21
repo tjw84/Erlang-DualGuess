@@ -7,6 +7,7 @@ This is my take on the "guess my number game" using two numbers instead of one. 
 
 Video explaination of text and use:
 [DualGuess user side](https://youtu.be/VzhuWHZ0mzo)
+
 [DualGuess code explaination](https://youtu.be/bEHwvBAVdMg)
 
 # Development Environment
