@@ -6,7 +6,8 @@ A check my numbers game based using Erlang with as little user input as possible
 This is my take on the "guess my number game" using two numbers instead of one. The numbers given by the user will be checked against two randomly generated numbers the were made before the user prompt. The first prompted number will be compared against the first generated number and likewise for the second. If the user would like to play again then they can input 1, otherwise they can quit with 0. (Only the acutal code file is uploaded, you can download the rand crate if you need and do cargo build in your system so I will leave out the unneeded code it carries with it for this format.)
 
 Video explaination of text and use:
-[DualGuess](https://www.youtube.com/watch?v=HF0UmDZHX1g)
+[DualGuess user side](https://youtu.be/VzhuWHZ0mzo)
+[DualGuess code explaination](https://youtu.be/bEHwvBAVdMg)
 
 # Development Environment
 
